@@ -387,7 +387,7 @@ header {
 }
 
 .hero .list-inline-item i {
-  font-size: 20px;
+  font-size: 30px;
   font-weight: 400;
 }
 
@@ -1306,8 +1306,9 @@ body.uone-dark {
 /*# sourceMappingURL=style.css.map */
 
 .angellist-icon {
-  width: 20px;
-  height: 20px;
+  width: 30px;
+  height: 30px;
+  margin-right: 16px;
 }
 
 .angellist-icon:hover {

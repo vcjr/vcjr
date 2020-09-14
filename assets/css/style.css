@@ -1304,3 +1304,24 @@ body.uone-dark {
   }
 }
 /*# sourceMappingURL=style.css.map */
+
+.angellist-icon {
+  width: 20px;
+  height: 20px;
+}
+
+.angellist-icon:hover {
+  color: #d23e50 !important;
+}
+
+.list-inline {
+  display: flex;
+  align-items: center;
+}
+
+.hero-button {
+  background-color: none;
+  border: 1px solid white;
+  padding: 5px;
+  text-decoration: none;
+}

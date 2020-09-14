@@ -35,6 +35,13 @@ $window.on("load", (function() {
     pagePilling();
 }));
 
+window.setTimeout(() => {
+    var $darkLogo = $('.dark-logo');
+        $("body").toggleClass('uone-dark');
+        $('.section').toggleClass('bg-dark');
+        $('.color-scheme').removeClass('d-none').addClass('d-inline-block');
+        $(this).removeClass('d-inline-block').addClass('d-none');
+}, 200);
 /*-----------------------------------------------------------------------------
                                    FUNCTIONS
 -----------------------------------------------------------------------------*/

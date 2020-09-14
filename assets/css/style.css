@@ -1320,8 +1320,16 @@ body.uone-dark {
 }
 
 .hero-button {
-  background-color: none;
   border: 1px solid white;
+  border-radius: 5px;
   padding: 5px;
-  text-decoration: none;
+}
+
+a.hero-button {
+  color: white;
+}
+
+a.hero-button:hover {
+  color: #d23e50 !important;
+  border: 1px solid #d23e50;
 }

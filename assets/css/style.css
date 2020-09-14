@@ -1338,3 +1338,7 @@ a.hero-button:hover {
   color: #d23e50 !important;
   border: 1px solid #d23e50;
 }
+
+.list-align-center {
+  justify-content: center;
+}

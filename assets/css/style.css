@@ -1320,6 +1320,10 @@ body.uone-dark {
   align-items: center;
 }
 
+.hero-button-section {
+  margin-bottom: 16px;
+}
+
 .hero-button {
   border: 1px solid white;
   border-radius: 5px;

@@ -58,7 +58,7 @@ function pagePilling(){
         verticalCentered: true,
         navigation: {
             'position': 'right',
-            'tooltips': ['HOME', 'ABOUT ME', 'RESUME', 'SKILLS', 'PORTFOLIO', 'CONTACT']
+            'tooltips': ['HOME', 'ABOUT ME', 'SKILLS', 'PORTFOLIO', 'RESUME', 'CONTACT']
         },
         loopBottom: true,
         loopTop: true,

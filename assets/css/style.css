@@ -1342,3 +1342,13 @@ a.hero-button:hover {
 .list-align-center {
   justify-content: center;
 }
+
+/* Devicon Icons */
+.devicon-git-plain {
+  max-width: 20px;
+}
+
+/* if you want to change the original color */
+.devicon-git-plain path {
+  fill: #4691f6;
+}

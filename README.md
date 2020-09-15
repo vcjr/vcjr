@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Victor 👋
 - 💬 Ask me about anything dealing with JavaScript, and 3D development.
 - 🔭 I’m currently working on my 3d Visualization project. Working to get these little cubes switching on and off to display an almaganation of beautiful colors that intertwine together.
 <!--

@@ -52,7 +52,7 @@ window.setTimeout(() => {
 function pagePilling(){
     $('#pagepiling').pagepiling({
         sectionsColor: ['#fff', '#fff', '#fff', '#fff', '#fff','#fff', '#fff' ,'#fff' ,'#fff'],
-        anchors: ['hero', 'about', 'resume', 'skills', 'portfolio', 'testimonial', 'blog'],
+        anchors: ['hero', 'about', 'skills', 'portfolio', 'resume', 'testimonial', 'blog'],
         menu: '#myMenu',
         direction: 'vertical',
         verticalCentered: true,

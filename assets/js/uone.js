@@ -337,3 +337,6 @@ function sendEmail() {
         });
     }
 }
+
+// Resume Modal Make All Links Open in New Tab
+// const resumeModal = document.getElementById("resume-modal-frame");

@@ -1352,3 +1352,26 @@ a.hero-button:hover {
 .devicon-git-plain path {
   fill: #d23e50 !important;
 }
+
+iframe {
+    width: 100%;
+    height: 100%;
+}
+
+.resume-modal {
+  height: 100%;
+}
+
+#resume-modal-link {
+  cursor: pointer;
+  display: inline-block;
+  border: 1px solid #d23e50;
+  border-radius: 5px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+#resume-modal-link:hover {
+  color: white !important;
+  border: 1px solid white;
+}

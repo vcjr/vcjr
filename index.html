@@ -224,6 +224,24 @@
             </div>
         </div>
     </div>
+    <!-- Resume Single Modal -->
+    <div class="portfolio-single modal fade" id="resume-single-modal" tabindex="-1" role="dialog"
+        aria-labelledby="portfolioModalScrollable" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-scrollable resume-modal" role="document">
+            <div class="modal-content bg-white">
+                <div class="modal-header">
+                    <h2 class="modal-title" id="portfolioModalScrollable">Resume</h2>
+                    <button type="button" class="close text-muted" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <div class="modal-body">
+                    <!-- <iframe id="resume-modal-frame" src="https://docs.google.com/document/d/e/2PACX-1vSLiRdsRAawydPibrlH9hlVeh-aksF_eKI4h2NVuMNXqFyhjc8VkDaoJzGNiiuy6caooafaK6od0s3m/pub?embedded=true"></iframe> -->
+                    <iframe id="resume-modal-frame" src="./assets/files/Victor Crispin's Resume.pdf"></iframe>
+                </div>
+            </div>
+        </div>
+    </div>
 
     <!--  Page Pilling  Strat  -->
     <div id="pagepiling" class="pagepiling">
@@ -589,7 +607,7 @@
                                 <div class="text-left">
                                     <h2 class="text-dark mb-3">My <span class="base-color">Resume</span></h2>
                                     <p class="text-muted">I Am Currently Open to Software Engineering Roles</p>
-                                    <h4 class="base-color"><a target="_blank" href="https://drive.google.com/file/d/1hMMU9iaNoz-LGclM0SgarmUyuibkL4Ei/view?usp=sharing">Full Resume</a></h4>
+                                    <h4 class="base-color" id="resume-modal-link" data-toggle="modal" data-target="#resume-single-modal">Full Resume</h4>
                                 </div>
                             </div>
                         </div>
@@ -715,7 +733,7 @@
         </section>
         <!--   Contact End   -->
 
-          <!-- Color Scheme  -->
+        <!-- Color Scheme  -->
         <a class="color-scheme text-white bg-base-color d-inline-block" href="javascript:void(0)"><i
                 class="lni-night"></i></a>
         <a class="color-scheme color-scheme-light text-white bg-base-color d-none" href="javascript:void(0)"><i

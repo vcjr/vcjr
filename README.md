@@ -1,6 +1,7 @@
 ### Hi, I'm Victor 👋
-- 💬 Ask me about JavaScript, 3D development, and learning about Web3 architecture!
-- 🔭 I’m currently working on Web3 projects!
+- 💬 Ask me about JavaScript, 3D development, and Mechantronics!
+- 🔭 I’m currently learning and working on multifaceted projects.
+
 <!--
 **vcjr/vcjr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -1,53 +1,52 @@
-<div align="center">
-  <h1>Victor Crispin (@vcjr)</h1>
-  <h2>Building Tech with Purpose: For Faith, Family, and Growth.</h2>  
-</div>
+ ---
+  <div align="center">
 
-### 👋 &nbsp; Greetings, Explorer!
+  # Victor Crispin
 
-I'm Victor, and I wear a few important hats: I'm a **husband**, a **father of three incredible boys**, and a developer who believes technology should be a tool for **intentional growth and love**.
+  **Software engineer. Husband. Father of three. Builder of things that matter.**
 
-My life's work is driven by my **Christian faith**, which inspires me to apply my skills in tech to serve others and build things that truly matter. My coding expertise centers around **JavaScript** and the modern web stack, but my true passion lies in their application.
+  </div>
 
-💬 &nbsp; **Ask me about:** **Intentional parenting apps**, **faith-based tech projects**, and **3D web development**.
+  ---
 
----
+  I build technology that serves faith, strengthens families, and helps people flourish — not technology that extracts attention for profit.
 
-### 💡 &nbsp; Core Mission: Technology with Intent
+  My work lives at the intersection that most people overlook: **faith × fatherhood × engineering.** Not as separate lanes, but as one calling.
 
-My primary focus is leveraging development to make a meaningful difference in the lives of my family and community.
+  ---
 
-| Focus Area | Description | Impact & Goal |
-| :--- | :--- | :--- |
-| **Paternal EdTech** | Building a specialized app to help me be a more intentional **father and teacher** by customizing growth and **micro-learning** paths for my kids. | Applying software design to domestic education, development, and discipleship. |
-| **Christian Development** | Excited to share **Jesus' love through tech and mentorship**. I seek out opportunities where code and **faith** intersect to build impactful resources. | Utilizing technology to empower ministry, serve the community, and share the Gospel. |
-| **Full-Stack Development** | Building robust, scalable, and modern web applications with a focus on performance and clean architecture. | Delivering high-quality solutions using **JavaScript (Node.js, React)** and cloud services. |
+  ### What I'm Building
 
----
+  | Project | What it is | Stack |
+  | :--- | :--- | :--- |
+  | [**Fam Kit**](https://famkit.app) | 30+ micro-apps for Christian families — faith tools, parenting aids, family games. Free. No ads. No tracking. | Next.js, React 19, Supabase, Gemini AI |
+  | [**Autodidact AI**](https://github.com/vcjr/autodidact) | AI-powered personalized learning paths, built to teach my own kids | Python, Gemini, ChromaDB, RAG |
+  | [**Christians Innovate**](https://github.com/vcjr/christians-innovate) | Community for faith-driven builders and makers | Next.js, Supabase, PWA |
 
-### ✨ &nbsp; Guiding Principles & Side Passions
+  ---
 
-My work is driven by integrity, collaboration, and a love for creating.
+  ### What I Believe
 
-* **Faith First:** My Christian values inform my approach to coding, mentorship, and project selection, striving for excellence and positive impact.
-* **Intentional Growth:** I am obsessed with **micro-learning** and deliberate progress—a philosophy reflected in my technical projects and my commitment to teaching my children.
+  - Technology should **restore**, not extract
+  - The best tools are built from **conviction**, not just capability
+  - Fatherhood and engineering aren't separate — one fuels the other
+  - Building in public means sharing the mess, not just the wins
 
----
+  ---
 
-### ⚙️ &nbsp; Stats & Connect
+  ### What I'm Documenting
 
-<div align="center">
-  
-**My GitHub Trophies:**
+  I'm recording the journey of building **redemptive businesses** — ventures where the mission isn't growth-at-all-costs but human flourishing.
 
-<img src="https://github-profile-trophy.vercel.app/?username=vcjr&theme=onedark&no-frame=true&no-bg=true" alt="GitHub Trophies" />
+  Building something because it *should* exist, not because it *scales.*
 
----
+  ---
 
-**Find me here:**
+  <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/victorcrispin) 
-
-</div>
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/victorcrispin)
 
 
+  *"Engineer by trade. Father by calling."*
+
+  </div>

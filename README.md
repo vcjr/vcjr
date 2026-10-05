@@ -19,7 +19,7 @@
 
   | Project | What it is | Stack |
   | :--- | :--- | :--- |
-  | [**Fam Kit**](https://famkit.app) | 30+ micro-apps for Christian families — faith tools, parenting aids, family games. Free. No ads. No tracking. | Next.js, React 19, Supabase, Gemini AI |
+  | [**Fam Kit**](https://famkit.io) | 30+ micro-apps for Christian families — faith tools, parenting aids, family games. Free. No ads. No tracking. | Next.js, React 19, Supabase, Gemini AI |
   | [**Autodidact AI**](https://github.com/vcjr/autodidact) | AI-powered personalized learning paths, built to teach my own kids | Python, Gemini, ChromaDB, RAG |
   | [**Christians Innovate**](https://github.com/vcjr/christians-innovate) | Community for faith-driven builders and makers | Next.js, Supabase, PWA |
 
